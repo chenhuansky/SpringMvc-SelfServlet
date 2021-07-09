@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringMvc-SelfServlet/SpringMVC.iml" filepath="$PROJECT_DIR$/SpringMvc-SelfServlet/SpringMVC.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/git.iml" filepath="$PROJECT_DIR$/.idea/git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMvc-SelfServlet/springmvc-01-servlet/springmvc-01-servlet.iml" filepath="$PROJECT_DIR$/SpringMvc-SelfServlet/springmvc-01-servlet/springmvc-01-servlet.iml" />
     </modules>
   </component>
 </project>
