@@ -24,7 +24,8 @@ public class HelloServlet extends HttpServlet {
         //返回页面
         req.getRequestDispatcher("/WEB-INF/jsp/Hello.jsp").forward(req,resp);
     }
-
+    //尝试merge
+//"不快乐"
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         //复用doGet
