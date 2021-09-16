@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="781c65b6-162d-441d-b4a5-8ca78bb408c3" name="Default Changelist" comment="" />
+    <list default="true" id="781c65b6-162d-441d-b4a5-8ca78bb408c3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc-01-servlet/src/main/java/com/seu/servlet/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-01-servlet/src/main/java/com/seu/servlet/HelloServlet.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
